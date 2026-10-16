@@ -1,6 +1,9 @@
 # 📊 Packaged Sweet Goods Category Management Analytics
 **52-Week Nielsen Scan Data Analysis • Little Debbie Brand Performance**
 
+> ⚠️ **Portfolio Project Disclaimer:** 
+> *This project utilizes **synthesized/mocked scan data** created exclusively for portfolio and demonstration purposes. All metrics, brand references (Little Debbie / McKee Foods), and figures are simulated to showcase category management, data visualization, and trade promotion analysis workflows, and do not represent proprietary or confidential company information.*
+
 ---
 
 ## 📌 Project Overview
